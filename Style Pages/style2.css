@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+
+.mainbigbox{
+    width: 1000px;
+    height: 1025px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 20px;
+    text-align: left;
+}
